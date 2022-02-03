@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Project_27.srcs/sources_1/new/EdgeDetector_FSM.vhd" \
+"../../../../Project_27.srcs/sim_1/new/EdgeDetector_FSM_TB.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/JFSR00/Vivado/Project_02/Project_02.srcs/sources_1/new/NOR_GATE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NOR_GATE
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/JFSR00/Vivado/Project_02/Project_02.srcs/sim_1/new/NOR_GATE_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NOR_GATE_tb

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TOP_00_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TOP_00_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="344640000fs"></ZoomStartTime>
+      <ZoomEndTime time="532240001fs"></ZoomEndTime>
+      <Cursor1Time time="495000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="125"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wave_markers>
+      <marker time="75000000" label="" />
+      <marker time="115000000" label="" />
+      <marker time="155000000" label="" />
+      <marker time="215000000" label="" />
+      <marker time="255000000" label="" />
+      <marker time="315000000" label="" />
+      <marker time="355000000" label="" />
+      <marker time="395000000" label="" />
+      <marker time="455000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/TOP_00_tb/CLK_i" type="logic">
+      <obj_property name="ElementShortName">CLK_i</obj_property>
+      <obj_property name="ObjectShortName">CLK_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/RST_i" type="logic">
+      <obj_property name="ElementShortName">RST_i</obj_property>
+      <obj_property name="ObjectShortName">RST_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/ADDR1_o" type="array">
+      <obj_property name="ElementShortName">ADDR1_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR1_o[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/ADDR2_o" type="array">
+      <obj_property name="ElementShortName">ADDR2_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR2_o[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/REG_A_o" type="array">
+      <obj_property name="ElementShortName">REG_A_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_A_o[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/REG_B_o" type="array">
+      <obj_property name="ElementShortName">REG_B_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_B_o[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/INST_o" type="array">
+      <obj_property name="ElementShortName">INST_o[11:0]</obj_property>
+      <obj_property name="ObjectShortName">INST_o[11:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/PC_o" type="array">
+      <obj_property name="ElementShortName">PC_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_o[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/ALU_OUT_o" type="array">
+      <obj_property name="ElementShortName">ALU_OUT_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_OUT_o[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/FZ_o" type="logic">
+      <obj_property name="ElementShortName">FZ_o</obj_property>
+      <obj_property name="ObjectShortName">FZ_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/uut/CONTROL_UNIT/COP_i" type="array">
+      <obj_property name="ElementShortName">COP_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">COP_i[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/uut/CONTROL_UNIT/NEXT_STATE" type="other">
+      <obj_property name="ElementShortName">NEXT_STATE</obj_property>
+      <obj_property name="ObjectShortName">NEXT_STATE</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TOP_00_tb/uut/CONTROL_UNIT/CW_o" type="array">
+      <obj_property name="ElementShortName">CW_o[9:0]</obj_property>
+      <obj_property name="ObjectShortName">CW_o[9:0]</obj_property>
+   </wvobject>
+</wave_config>

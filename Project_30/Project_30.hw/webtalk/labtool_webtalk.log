@@ -1,0 +1,9 @@
+
+****** Webtalk v2018.2 (64-bit)
+  **** SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+  **** IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source H:/Git/TDC/Project_30/Project_30.hw/webtalk/labtool_webtalk.tcl -notrace
+Acceso denegado.
+INFO: [Common 17-206] Exiting Webtalk at Sun May 23 18:03:08 2021...

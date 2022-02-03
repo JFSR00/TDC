@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/TDC/Vivado/TDC/Project_23/Project_23.srcs/sources_1/new/RAM_WF_ASYNC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM_WF_ASYNC
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/TDC/Vivado/TDC/Project_23/Project_23.srcs/sim_1/new/RAM_WF_ASYNC_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM_WF_ASYNC_tb

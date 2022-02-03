@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Project_30.srcs/sources_1/imports/new/CE_N_Hz.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/TDC/Project_29/Project_29.srcs/sources_1/imports/new/CONT_UNIT_0.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/new/COUNTER_N_bits.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/TDC/Project_29/Project_29.srcs/sources_1/imports/new/DATAPATH_0.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/new/DISP7SEG.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/new/DISP7SEG_8ON.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/TDC/Project_27/Project_27.srcs/sources_1/new/EdgeDetector_FSM.vhd" \
+"../../../../Project_30.srcs/sources_1/imports/TDC/Project_29/Project_29.srcs/sources_1/new/TOP_00.vhd" \
+"../../../../Project_30.srcs/sim_1/new/TOP_00_TB.vhd" \
+
+# Do not sort compile order
+nosort

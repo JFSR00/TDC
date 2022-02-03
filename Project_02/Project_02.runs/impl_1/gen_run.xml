@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1613557891">
+  <File Type="BITSTR-BMM" Name="NOR_GATE_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="NOR_GATE_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="NOR_GATE_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="NOR_GATE_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="NOR_GATE.tcl"/>
+  <File Type="OPT-TIMING" Name="NOR_GATE_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="NOR_GATE_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="NOR_GATE_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="NOR_GATE_reports.tcl"/>
+  <File Type="OPT-DRC" Name="NOR_GATE_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="NOR_GATE.hwdef"/>
+  <File Type="PWROPT-DCP" Name="NOR_GATE_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="NOR_GATE_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="NOR_GATE_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="NOR_GATE_placed.dcp"/>
+  <File Type="PLACE-IO" Name="NOR_GATE_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="NOR_GATE_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="NOR_GATE_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="NOR_GATE_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="NOR_GATE_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="NOR_GATE_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="NOR_GATE_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="NOR_GATE.bgn"/>
+  <File Type="PLACE-TIMING" Name="NOR_GATE_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="NOR_GATE_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="NOR_GATE.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="NOR_GATE_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="NOR_GATE_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="NOR_GATE_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="NOR_GATE.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="NOR_GATE_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="NOR_GATE_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="NOR_GATE_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="NOR_GATE_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="NOR_GATE_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="NOR_GATE_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="NOR_GATE.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="NOR_GATE_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="NOR_GATE.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="NOR_GATE_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="NOR_GATE_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="NOR_GATE.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="NOR_GATE_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="NOR_GATE_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="NOR_GATE_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="NOR_GATE_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="NOR_GATE_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="NOR_GATE_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="NOR_GATE_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="NOR_GATE_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="NOR_GATE_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="NOR_GATE_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="NOR_GATE_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="NOR_GATE_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="NOR_GATE_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="NOR_GATE_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="NOR_GATE_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="NOR_GATE_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="NOR_GATE_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="NOR_GATE_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="NOR_GATE_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="NOR_GATE.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="NOR_GATE_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="NOR_GATE.rbt"/>
+  <File Type="BITSTR-NKY" Name="NOR_GATE.nky"/>
+  <File Type="BG-DRC" Name="NOR_GATE.drc"/>
+  <File Type="RDI-RDI" Name="NOR_GATE.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/NOR_GATE.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="NOR_GATE"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Feb 17 13:22:51 2021
+# Process ID: 16300
+# Current directory: C:/Users/JFSR00/Vivado/Project_04/Project_04.runs/synth_1
+# Command line: vivado.exe -log MUX2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MUX2.tcl
+# Log file: C:/Users/JFSR00/Vivado/Project_04/Project_04.runs/synth_1/MUX2.vds
+# Journal file: C:/Users/JFSR00/Vivado/Project_04/Project_04.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source MUX2.tcl -notrace

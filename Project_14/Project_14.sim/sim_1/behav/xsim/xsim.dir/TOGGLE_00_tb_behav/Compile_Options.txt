@@ -1,0 +1,1 @@
+-wto "dca2089bfffe4428b1f99ed9b3f5a4da" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "TOGGLE_00_tb_behav" "xil_defaultlib.TOGGLE_00_tb" -log "elaborate.log" 

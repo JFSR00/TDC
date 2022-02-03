@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../KNIGHT_RIDER.srcs/sources_1/new/KITT.vhd" \
+"../../../../KNIGHT_RIDER.srcs/sim_1/new/KITT_TB.vhd" \
+
+# Do not sort compile order
+nosort

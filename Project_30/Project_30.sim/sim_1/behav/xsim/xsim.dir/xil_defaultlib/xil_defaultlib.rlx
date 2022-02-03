@@ -1,0 +1,13 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+H:/Git/TDC/Project_30/Project_30.srcs/sim_1/new/TOP_00_TB.vhd,1621787955,vhdl,,,,top_00_tb,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/TDC/Project_27/Project_27.srcs/sources_1/new/EdgeDetector_FSM.vhd,1621786389,vhdl,,,,edgedetector_fsm,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/TDC/Project_29/Project_29.srcs/sources_1/imports/new/CONT_UNIT_0.vhd,1621785186,vhdl,,,,cont_unit_0,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/TDC/Project_29/Project_29.srcs/sources_1/imports/new/DATAPATH_0.vhd,1621428928,vhdl,,,,datapath_0,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/TDC/Project_29/Project_29.srcs/sources_1/new/TOP_00.vhd,1621787413,vhdl,,,,top_00,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/new/CE_N_Hz.vhd,1619786123,vhdl,,,,ce_n_hz,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/new/COUNTER_N_bits.vhd,1619786123,vhdl,,,,counter_n_bits,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/new/DISP7SEG.vhd,1619786123,vhdl,,,,disp7seg,,,,,,,,
+H:/Git/TDC/Project_30/Project_30.srcs/sources_1/imports/new/DISP7SEG_8ON.vhd,1619786123,vhdl,,,,disp7seg_8on,,,,,,,,

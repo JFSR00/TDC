@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/JFSR00/git/TDC/Project_26/Project_26.srcs/sources_1/imports/sources_1/new/DATAPATH_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DATAPATH_0
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/JFSR00/git/TDC/Project_26/Project_26.srcs/sim_1/new/DATAPATH_0_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DATAPATH_0_tb

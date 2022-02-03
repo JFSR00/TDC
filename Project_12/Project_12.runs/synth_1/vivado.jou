@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Mar 10 10:59:46 2021
+# Process ID: 12104
+# Current directory: C:/Users/JFSR00/Vivado/Project_12/Project_12.runs/synth_1
+# Command line: vivado.exe -log DECO_N_BITS.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DECO_N_BITS.tcl
+# Log file: C:/Users/JFSR00/Vivado/Project_12/Project_12.runs/synth_1/DECO_N_BITS.vds
+# Journal file: C:/Users/JFSR00/Vivado/Project_12/Project_12.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DECO_N_BITS.tcl -notrace
