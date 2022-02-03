@@ -1,2 +1,2 @@
-# DCE
+# TDC
 Repositorio de prácticas de TDC
